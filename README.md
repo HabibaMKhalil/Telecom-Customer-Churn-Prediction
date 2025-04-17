@@ -54,8 +54,8 @@ $ python predict.py
 ## 📂 PROJECT STRUCTURE                              
 telecom-churn-prediction/                                    
 ├── data/                                                               
-│   ├── train.csv           # Training dataset
-│   └── test.csv            # Test dataset                              
+│   ├── train.csv           # Training dataset                                        
+│   └── test.csv            # Test dataset                                              
 ├── models/                                            
 │   └── random_forest.pkl   # Saved best model                                             
 ├── notebooks/                                                   
