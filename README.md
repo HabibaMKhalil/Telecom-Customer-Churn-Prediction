@@ -1,16 +1,16 @@
 
-# 📞 TELECOM CUSTOMER CHURN PREDICTION SYSTEM
+#  TELECOM CUSTOMER CHURN PREDICTION SYSTEM
 Machine Learning | Python | Scikit-learn | Imbalanced Data                                 
 A predictive analytics solution to identify at-risk customers in telecommunications using machine learning.
 
-## 🚀 KEY FEATURES
+##  KEY FEATURES
 ✔ Comprehensive data analysis pipeline                           
 ✔ SMOTE implementation for class imbalance (14% churn rate)                    
 ✔ Feature engineering: total calls/minutes/charges                                            
 ✔ 4 ML algorithms compared with hyperparameter tuning                        
 ✔ Production-ready prediction system                                   
 
-#3 📊 MODEL PERFORMANCE
+#3  MODEL PERFORMANCE
  1. Random Forest >>
     Accuracy:  0.92 ✔
     Precision: 0.74 ✔
@@ -35,12 +35,12 @@ A predictive analytics solution to identify at-risk customers in telecommunicati
     Recall:    0.76
     AUC-ROC:   0.77                
 
-## 🛠️ INSTALLATION
+##  INSTALLATION
 $ git clone https://github.com/yourusername/telecom-churn-prediction.git                                            
 $ cd telecom-churn-prediction                                      
 $ pip install -r requirements.txt                                          
 
-## 🧠 USAGE
+##  USAGE
 1. Run EDA and data preprocessing:                           
 $ python eda.py           
 
@@ -51,7 +51,7 @@ $ python train.py
 $ python predict.py                  
 
 
-## 📂 PROJECT STRUCTURE                              
+##  PROJECT STRUCTURE                              
 telecom-churn-prediction/                                    
 ├── data/                                                               
 │   ├── train.csv           # Training dataset                                        
