@@ -1,4 +1,3 @@
-
 #  TELECOM CUSTOMER CHURN PREDICTION SYSTEM
 Machine Learning | Python | Scikit-learn | Imbalanced Data                                 
 A predictive analytics solution to identify at-risk customers in telecommunications using machine learning.
